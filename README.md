@@ -1,4 +1,4 @@
-# Task Management System
+# Task Management System 📝:
     Task Management System Implementation
     This portal contains the system design task asked in Zoho Round 3 on April 6, 2025. The task consists of 7 versions that build upon each other:
     
@@ -81,3 +81,42 @@
     
     --- Tasks under Category: Programming ---
     Task ID: 107 | Task Name: Study Java | Description: Practice coding | Due Date: 15-04-2025 | Priority: HIGH | Categories: Education, Programming, Important
+
+
+# Stock Management System 🛠️:
+
+    Stock Management System
+    Language: Any object-oriented programming language (Java/Python preferred)
+    
+    Focus: System Design, OOP, Logical thinking, Code quality
+    
+    Problem Statement:
+    Design and implement an In-Memory Stock Management System for a small-scale store. The system should be menu-driven and allow a store manager to perform the following operations.
+    
+    Modules to Implement:
+    
+    1. Add New Product to Inventory
+    Input: Product ID, Product Name, Category, Quantity, Price per Unit, Supplier Name
+    Store it in memory
+    Product ID should be unique
+    
+    2. Update Stock Quantity
+    Input: Product ID, Quantity to add or remove
+    If removing, ensure quantity doesn't go below 0
+    Update the product details accordingly
+    
+    3. Search Product
+    Search by: Product ID, Product Name, or Category
+    Display complete product details
+    
+    4. Track Sales and Purchases
+    Support recording sales (reduces stock) and purchases (increases stock)
+    For each transaction, store: Transaction ID, Product ID, Type (Sale/Purchase), Quantity, Date
+    
+    5. Generate Reports
+    Low Stock Alert Report – List all products with stock below threshold
+    Sales Report – Show total quantity sold per product
+    Purchase Report – Show total quantity purchased per product
+    
+    6. Update Product Details
+    Modify name, category, supplier, or price
