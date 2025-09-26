@@ -120,3 +120,15 @@
     
     6. Update Product Details
     Modify name, category, supplier, or price
+
+# Taxi Booking Application 🚕:
+
+    Design a call taxi booking application with the following constraints:
+    
+    1. There are 6 points (A, B, C, D, E, F) arranged linearly, and the distance between consecutive points is 15 km.
+    2. The travel time between two consecutive points is 1 hour.
+    3. All taxis start from point A.
+    4. Minimum fare: Rs. 100 for the first 5 km. For every additional kilometer, Rs. 10 is charged.
+    5. Allocate a free taxi that is closest to the customer. If two taxis are at the same distance, the one with lower earnings should be allotted.
+    6. If no taxis are available, reject the booking.
+    7. Display the earnings and booking details of each taxi after every booking.
