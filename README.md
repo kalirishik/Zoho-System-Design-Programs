@@ -163,3 +163,21 @@
     
     --- Booked Tickets: Display all confirmed passengers with details.
     --- Available Tickets: Show available berths, RAC slots, and Waiting List slots.
+
+# Flight Ticket Booking System ✈️:
+
+    Design a Flight Ticket booking application with the following constraints:
+    
+    1. Booking Ticket
+        Booking Conditions:
+            --- Each flight has 50 seats.
+            --- Get passenger details, including flight name and seats required.
+            --- Ticket starting price is ₹5000.
+            --- Ticket price increases by ₹200 for every successful booking.
+       
+    2. Cancel Ticket
+        Cancel Conditions:
+            --- Issue a refund for the cancelled ticket.
+            --- Ticket price reduces by ₹200 per cancelled seat.
+       
+    3. Print Flight Details with Passengers
