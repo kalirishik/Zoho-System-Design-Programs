@@ -121,7 +121,7 @@
     6. Update Product Details
     Modify name, category, supplier, or price
 
-# Taxi Booking Application 🚕:
+# Taxi Booking System 🚕:
 
     Design a call taxi booking application with the following constraints:
     
@@ -133,7 +133,7 @@
     6. If no taxis are available, reject the booking.
     7. Display the earnings and booking details of each taxi after every booking.
 
-# Railway Ticket Booking Application 🚅:
+# Railway Ticket Booking System 🚅:
 
     Design a Railway Ticket booking application with the following constraints:
 
