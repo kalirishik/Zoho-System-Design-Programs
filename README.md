@@ -132,3 +132,34 @@
     5. Allocate a free taxi that is closest to the customer. If two taxis are at the same distance, the one with lower earnings should be allotted.
     6. If no taxis are available, reject the booking.
     7. Display the earnings and booking details of each taxi after every booking.
+
+# Railway Ticket Booking Application 🚅:
+
+    Design a Railway Ticket booking application with the following constraints:
+
+    1. Book
+    2. Cancel
+    3. Print booked tickets (details with summary)
+    4. Print available tickets (details with summary)
+    
+    The application requires handling different ticket categories:
+    
+    --- Confirmed Tickets: 63 berths (Lower, Upper, Middle).
+    --- RAC Tickets: 9 berths (18 passengers).
+    --- Waiting List Tickets: 10 tickets max.
+    
+    Conditions for Booking:
+    
+    --- If the passenger is a senior citizen (>60 years) or a female, a lower berth should be allocated if available.
+    --- If all berths are full, assign RAC.
+    --- If RAC is full, assign Waiting List.
+    --- If Waiting List exceeds 10 passengers, display “No tickets available”.
+    
+    Conditions for Cancellation:
+    
+    --- On canceling a confirmed ticket, an RAC ticket should move to confirmed, and a waiting-list ticket should move to RAC.
+    
+    Conditions for Printing Tickets:
+    
+    --- Booked Tickets: Display all confirmed passengers with details.
+    --- Available Tickets: Show available berths, RAC slots, and Waiting List slots.
