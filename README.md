@@ -181,3 +181,27 @@
             --- Ticket price reduces by ₹200 per cancelled seat.
        
     3. Print Flight Details with Passengers
+
+# Mail Management System ✉️:
+
+    1. Store module:
+        --- Mail has Sender, Receiver, Subject, Content, Tag.
+    
+    2. Delete module:
+       --- Delete By Mail Index.
+        
+    4. Tag module:
+        --- User can add tags to mails.
+    
+    5. Stats module:
+        --- It shows the count of mail, groups of tags, recent N mails.
+    
+    6. Spam module:
+        --- We need to tag spam based on the dictionary of words.
+    
+    7. Search:
+        --- We need to search based on the query.
+    
+    8. WildCard:
+       --- We need to search based on the WildCard query.
+   
