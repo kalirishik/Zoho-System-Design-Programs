@@ -184,6 +184,8 @@
 
 # Mail Management System ✉️:
 
+    Design a Mail Management System with the following constraints:
+
     1. Store module:
         --- Mail has Sender, Receiver, Subject, Content, Tag.
     
@@ -204,4 +206,16 @@
     
     8. WildCard:
        --- We need to search based on the WildCard query.
+
+# Invoice Management System 🧾:
+
+    Design an Invoice Management System with the following constraints:
+    
+    1. Add a customer
+    2. Add an invoice
+    3. Add items to an invoice
+    4. List all customers
+    5. List all invoices
+    6. List all invoices of a customer
+    7. Display the full details of an invoice
    
