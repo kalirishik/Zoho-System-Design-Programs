@@ -1,0 +1,147 @@
+
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 1
+    Enter Customer ID: C1
+    Enter Customer Name: RISHI
+    Customer Added Successfully.
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 2
+    Enter Invoice ID: I1
+    Enter Customer ID: C1
+    Invoice Added Successfully.
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 4
+    Customer Id: C1, Customer Name: RISHI
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 5
+    Invoice ID: I1, Customer ID: C1
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 3
+    Enter Invoice ID: I1
+    Enter Item Name: PEN
+    Enter Item Quantity: 2
+    Enter Item Price: 10
+    Items Added to Invoice
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 3
+    Enter Invoice ID: I1
+    Enter Item Name: PENCIL
+    Enter Item Quantity: 5
+    Enter Item Price: 10
+    Items Added to Invoice
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 7
+    Enter Invoice ID: I1
+    --- Invoice Details ---
+    Invoice  ID: I1
+    Customer ID: C1
+    Items:
+    - PEN : 2 x 10.0 = 20.0
+    - PENCIL: 5 x 10.0 = 50.0
+      Total Amount: 70.0
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 2
+    Enter Invoice ID: I2
+    Enter Customer ID: C1
+    Invoice Added Successfully.
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 7
+    Enter Invoice ID: I2
+    No Items in Invoice ID: I2
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 6
+    Enter Customer ID: C1
+    --- Invoices for Customer ID: C1
+    Invoice ID: I1
+    Invoice ID: I2
+    ----- Invoice Management System -----
+     1. Add a Customer
+     2. Add an Invoice
+     3. Add Items to an Invoice
+     4. List All Customers
+     5. List All Invoices
+     6. List All Invoices of a Customer
+     7. Display the Full Details of an Invoices
+     8.Exit
+    Choose An Option(1-8): 8
+    Thanks For Visiting.
