@@ -232,13 +232,16 @@
         --> Make it possible to locate songs by searching by title, the author’s name or genre.
         
     The Solution:
+    
         --> Understanding Individual Masculinity, Femininity and Gender Neutral
-        --> To function well, a Library Management System (LMS) ought to fulfil the requirements of both admins and users (members). Everyone acts differently on the website, so we break their actions down into individual modules.
+        --> To function well, a Library Management System (LMS) ought to fulfil the requirements of both admins and users (members). 
+        --> Everyone acts differently on the website, so we break their actions down into individual modules.
     
     Admin Actions:
     
         --> You can add, update and remove books.
         --> All the books and all the members are displayed here.
+        
     User Actions:
     
         --> Sign up to be a member.
