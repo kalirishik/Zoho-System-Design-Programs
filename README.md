@@ -218,4 +218,30 @@
     5. List all invoices
     6. List all invoices of a customer
     7. Display the full details of an invoice
-   
+
+# Library Management System 📚:
+
+    Design a Library Management System with the following constraints:
+    
+    It was our task to design a system that would allow the firm to:
+    
+        --> You may borrow up to 5 books and keep them for 30 days.
+        --> Admins are allowed to manage which books are available (adding, updating and removing books).
+        --> Anyone can sign up, take out a book and return it once they’re finished.
+        --> Keep a record of what books are available and who has them.
+        --> Make it possible to locate songs by searching by title, the author’s name or genre.
+        
+    The Solution:
+        --> Understanding Individual Masculinity, Femininity and Gender Neutral
+        --> To function well, a Library Management System (LMS) ought to fulfil the requirements of both admins and users (members). Everyone acts differently on the website, so we break their actions down into individual modules.
+    
+    Admin Actions:
+    
+        --> You can add, update and remove books.
+        --> All the books and all the members are displayed here.
+    User Actions:
+    
+        --> Sign up to be a member.
+        --> Borrow your books during the scheduled documentary hours.
+        
+    You can look up books by either the book’s title, the name of the writer or the subject area.
