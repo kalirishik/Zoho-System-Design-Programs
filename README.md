@@ -248,3 +248,32 @@
         --> Borrow your books during the scheduled documentary hours.
         
     You can look up books by either the book’s title, the name of the writer or the subject area.
+
+# Toll Payment Process System 🛣:
+
+    Design a Toll Payment Process System with the following constraints:
+    
+    Application Description:
+    
+        --> There are ’n’ points on a highway. Some of these points are toll gates.
+        --> Each toll gate has a unique charging scheme based on vehicle type (Car, Bike, Truck) and whether the user is VIP.
+        --> VIP users receive a 20% discount on toll charges.
+        --> A vehicle passing through multiple tolls must pay at each toll according to its respective scheme.
+        --> The highway is considered circular, allowing vehicles to travel in both directions.
+    
+    Modules:
+    
+        1. Process Journey:
+             Calculate the toll charges for a journey, including discounts if applicable.
+            
+        2. Display Toll Details:
+             Display details of vehicles passing each toll and the total revenue collected.
+        
+        3. Display Vehicle Details:
+             Show journeys taken by each vehicle, tolls passed, and total toll charges paid.
+        
+        4. Find Shortest Route and Calculate Toll:
+             Identify the shortest path between two points and calculate the toll.
+        
+        5. Exit:
+             Terminate the program.
